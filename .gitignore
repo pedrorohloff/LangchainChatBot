@@ -1,0 +1,5 @@
+.gitignore
+.env
+/.venv
+langchain.ipynb
+.idea/
